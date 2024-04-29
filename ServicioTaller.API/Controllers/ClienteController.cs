@@ -6,7 +6,5 @@ namespace ServicioTaller.API.Controllers
     [Route("api/[controller]")]
     [ApiController]
     public class ClienteController : ControllerBase
-    {
-        //dsgsdg
-    }
+    {    }
 }
