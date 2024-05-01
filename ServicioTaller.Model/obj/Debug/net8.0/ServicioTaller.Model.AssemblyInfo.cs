@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ServicioTaller.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aadee1a742ea7ba81f8b453be0475f4beaff3a1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ae7e3afd2144927607030f07ac4bbdadcbe9178")]
 [assembly: System.Reflection.AssemblyProductAttribute("ServicioTaller.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ServicioTaller.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
